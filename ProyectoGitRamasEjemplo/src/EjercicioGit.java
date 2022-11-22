@@ -1,10 +1,10 @@
 
 public class EjercicioGit {
 	
-	public static void main(String[] args) {
+	public static void imprimeSaludo() {
 		
 		
-		System.out.println("hola mundo");
+		System.out.println("hei");
 		
 	}
 
