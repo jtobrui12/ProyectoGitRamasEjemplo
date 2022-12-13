@@ -4,7 +4,7 @@ public class EjercicioGit {
 	public static void imprimeSaludo() {
 		
 		
-		System.out.println("saludos");
+		System.out.println("otro mensaje");
 		
 	}
 
